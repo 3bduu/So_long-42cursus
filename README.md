@@ -39,7 +39,7 @@ Replace path_to_map with the path to the map file you want to use for the game.
 ## Usage
 After running the game with the appropriate map file, the game window will open, displaying the game interface. Use the game controls to navigate through the map, collect items, and reach the exit.
 
-Game Controls
+## GameControls
 The following keyboard controls are available for playing the game:
 
 * W or ↑: Move the player character up.
@@ -47,7 +47,7 @@ The following keyboard controls are available for playing the game:
 * S or ↓: Move the player character down.
 * D or →: Move the player character right.
 * ESC: Close the game window and exit the game.
-## Map Format
+## MapFormat
 
 The game map is provided in a plain text file with a .ber extension. The map file specifies the layout of the game world, including the player's starting position, walls, collectibles, and the exit. Here is an example of the map format:
 ```
