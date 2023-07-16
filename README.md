@@ -53,8 +53,8 @@ The game map is provided in a plain text file with a .ber extension. The map fil
 ```
 111111
 100101
-121001
-1000E1
+1C1001
+1P00E1
 111111
 ```
 * 1: Wall
