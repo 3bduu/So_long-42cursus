@@ -18,7 +18,7 @@ To install and run So_Long, follow these steps:
 
 Clone the repository:
 ```
-git clone https://github.com/your_username/so_long.git
+git clone https://github.com/3bduu/So_long-42cursus.git
 ```
 Navigate to the project directory:
 ```
